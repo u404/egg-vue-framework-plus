@@ -16,7 +16,7 @@ publish your framework to npm, then change app's framework config:
 {
   "name": "egg-showcase",
   "egg": {
-    "framework": "yadan"
+    "framework": "egg-vue-framework-plus"
   }
 }
 ```
