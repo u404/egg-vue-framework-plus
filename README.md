@@ -1,4 +1,4 @@
-# vue-framework-plus
+# egg-vue-framework-plus
 
 egg集成vue3.0
 
