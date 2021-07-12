@@ -2,6 +2,9 @@
 
 egg集成vue3.0
 
+## Demo
+[admin demo project](https://github.com/u404/admin-template--egg-vue3.0.git)
+
 ## QuickStart
 
 ```bash

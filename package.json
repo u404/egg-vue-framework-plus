@@ -1,6 +1,6 @@
 {
   "name": "egg-vue-framework-plus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "egg集成vue3.0",
   "dependencies": {
     "@vitejs/plugin-vue": "^1.2.4",
